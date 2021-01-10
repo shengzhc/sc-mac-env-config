@@ -1,0 +1,15 @@
+{
+	"auto_formatting": true,
+	"anaconda_linter_mark_style": "none",
+	"anaconda_linter_underlines": false,
+	"autoformat_ignore":
+	[
+		"E309",
+		"E501"
+	],
+	"pep8_ignore":
+	[
+		"E309",
+		"E501"
+	],
+}
